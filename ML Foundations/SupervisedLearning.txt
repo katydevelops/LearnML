@@ -1,0 +1,15 @@
+Supervised Learning
+
+- type of machine learning where the model is trained on a LABELED DATASET. This means training data includes both the input features (also called X) and the corresponding correct output (called y). 
+
+- The goal is for the model to learn the mapping from inputs to outputs so it can make predictions on new, unseen data.
+
+
+Key Characteristics of Supervised Learning
+
+    - Labeled Data: you have both the inputs (features) and the correct outputs (labels) for each training example
+
+    - Goal: model's task is to learn a function that maps inputs (features) to the correct outputs (labels)
+
+    - Prediction: Once trained, the model can make predictions on new data where the labels are unknown.
+
